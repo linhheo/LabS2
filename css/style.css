@@ -1,0 +1,27 @@
+
+* {
+    font-family: "Karma", sans-serif;
+}
+
+html, body {
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.center{
+    font-size: 50px;
+    text-align: center;
+}
+
+h3{
+    font-size: 15px;
+}
+
+p{
+    font-size: 10px;
+}
+
+.item{
+    border: 5px solid white;
+    text-align: unset;
+}
