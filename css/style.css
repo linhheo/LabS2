@@ -16,6 +16,12 @@ html, body {
     font-size: 50px;
 }
 
+.padding-16 .item{
+    width: 300px;
+    float: left;
+    margin: 4px;
+}
+
 .main {
     float: none;
     width: 1250px;
@@ -23,17 +29,13 @@ html, body {
     align-content: center;
 }
 
-.padding-16 .item{
-    width: 300px;
-    float: left;
-    margin: 5px;
-}
-
-
 .img{
     width: 300px;
 }
 
+h4{
+    font-size: 25px;
+}
 .about{
     align-content: center;
 }
